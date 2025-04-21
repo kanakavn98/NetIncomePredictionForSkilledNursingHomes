@@ -1,4 +1,2 @@
-Passionate about the intersection of data and business strategies.
-Thrive on extracting ,transforming the raw data into actionable insights that uncover hidden opportunities  to make informed and strategic decisions to empower organizations. 
-Open to collaboration and always eager to explore new ways to harness the power of data for business success.
-Let's connect to discuss how I can contribute to your team's analytics journey!
+Developed a predictive model using data from Data.gov to estimate net income for skilled nursing facilities. Applied regression techniques with Lasso and Ridge regularization, built ETL pipelines, and evaluated performance using R², RMSE, and MAE to ensure accuracy and reliability.
+
